@@ -74,29 +74,31 @@ function Tool4() {
       </div>
 
       {/* Contenedor de Prompts */}
-      <div className="flex justify-between w-full md:w-2/3 mb-10 mt-20"> {/* Ajustado para más margen inferior */}
+      <div className="flex flex-col w-full md:w-2/3 mb-4 mt-4"> {/* Ajuste del layout */}
         {/* Contenedor de Título "PROMPTS" */}
-        <div className="flex flex-col items-start w-1/2">
-          <h2 className="text-2xl font-bold text-black dark:text-white text-left mb-4">PROMPTS</h2>
+        <div className="flex flex-col items-start w-full">
+          <h2 className="text-3xl font-bold text-black dark:text-white text-left mb-2">Ejemplos de Prompts</h2> {/* Ajuste en márgenes */}
         </div>
         
         {/* Contenedor de ejemplos de Prompts */}
-        <div className="bg-transparent dark:bg-black rounded-lg p-4 shadow-none w-1/2">
-          <h3 className="text-lg font-semibold text-black dark:text-white">Ejemplos de Prompts:</h3>
+        <div className="bg-transparent dark:bg-black rounded-lg p-4 shadow-none w-full">
           <ul className="list-disc ml-5 text-black dark:text-white">
-            <li>Crea una ilustración de un paisaje surrealista con montañas flotantes y un cielo lleno de estrellas brillantes.</li>
-            <li>Genera un retrato de una guerrera fantástica con armadura dorada y un dragón en el fondo.</li>
-            <li>Diseña una obra de arte abstracto utilizando formas geométricas coloridas que representen la alegría y el movimiento.</li>
-            <li>Crea una imagen de un fénix renaciendo de las cenizas, con plumas de colores brillantes y llamas alrededor.</li>
-            <li>Desarrolla un concepto visual de una ciudad futurista con rascacielos de cristal y vehículos voladores en un cielo crepuscular.</li>
+            <li>Crear una historia sobre un mundo futurista gobernado por inteligencia artificial.</li>
+            <li>Escribir una receta creativa con ingredientes sorprendentes.</li>
+            <li>Desarrollar un plan de estudio para aprender un nuevo idioma en 6 meses.</li>
+            <li>Generar una descripción detallada de un personaje para un libro de fantasía.</li>
+            <li>Redactar un correo profesional para proponer una colaboración con una empresa.</li>
+            <li>Escribir un resumen de las últimas noticias sobre tecnología y avances científicos.</li>
+            <li>Crear un poema inspirador sobre la superación personal.</li>
+            <li>Describir una ciudad imaginaria en un planeta distante.</li>
           </ul>
         </div>
       </div>
 
       {/* Contenedores de imágenes P1 y P2 debajo de "PROMPTS" */}
-      <div className="flex flex-col justify-between w-full md:w-2/3 mt-10"> {/* Ajuste de layout a "flex-col" para que estén una encima de la otra */}
+      <div className="flex flex-col justify-between w-full md:w-2/3 mt-10"> {/* Ajuste de layout */}
         {/* Contenedor P1 */}
-        <div className="h-[350px] w-full rounded-lg shadow-none bg-transparent dark:bg-transparent flex flex-col items-center justify-center p-4 mb-4">
+        <div className="h-[350px] w-full rounded-lg shadow-none bg-transparent dark:bg-transparent flex flex-col items-center justify-center p-4 mb-8"> {/* Aumenta el espacio entre P1 y P2 */}
           <img 
             src="/img/PCHAT1.png" // Ruta de la imagen P1 relacionada con ChatGPT
             alt="Imagen ChatGPT P1"

@@ -77,15 +77,14 @@ function Tool2() {
       </div>
 
       {/* Contenedor de Prompts */}
-      <div className="flex justify-between w-full md:w-2/3 mb-10 mt-20"> {/* Ajustado para más margen inferior */}
+      <div className="flex flex-col w-full md:w-2/3 mb-4 mt-4"> {/* Se ajusta el margen superior */}
         {/* Contenedor de Título "PROMPTS" */}
-        <div className="flex flex-col items-start w-1/2">
-          <h2 className="text-2xl font-bold text-black dark:text-white text-left mb-4">PROMPTS</h2>
+        <div className="flex flex-col items-start w-full">
+          <h2 className="text-3xl font-bold text-black dark:text-white text-left mb-2">Ejemplos de Prompts</h2> {/* Ajuste en márgenes */}
         </div>
         
         {/* Contenedor de ejemplos de Prompts */}
-        <div className="bg-transparent dark:bg-black rounded-lg p-4 shadow-none w-1/2">
-          <h3 className="text-lg font-semibold text-black dark:text-white">Ejemplos de Prompts:</h3>
+        <div className="bg-transparent dark:bg-black rounded-lg p-4 shadow-none w-full">
           <ul className="list-disc ml-5 text-black dark:text-white">
             <li>Crear un diseño para una presentación de negocios.</li>
             <li>Diseñar un gráfico para redes sociales.</li>
@@ -100,9 +99,9 @@ function Tool2() {
       </div>
 
       {/* Contenedores de imágenes P1 y P2 debajo de "PROMPTS" */}
-      <div className="flex flex-col justify-between w-full md:w-2/3 mt-10"> {/* Ajuste de layout a "flex-col" para que estén una encima de la otra */}
+      <div className="flex flex-col justify-between w-full md:w-2/3 mt-10"> {/* Reducción de márgenes */}
         {/* Contenedor P1 */}
-        <div className="h-[350px] w-full rounded-lg shadow-none bg-transparent dark:bg-transparent flex flex-col items-center justify-center p-4 mb-4">
+        <div className="h-[350px] w-full rounded-lg shadow-none bg-transparent dark:bg-transparent flex flex-col items-center justify-center p-4 mb-8"> {/* Aumenta el espacio entre P1 y P2 */}
           <img 
             src="/img/PC1.png" // Ruta de la imagen P1 relacionada con Canva
             alt="Imagen Canva P1"
@@ -126,4 +125,5 @@ function Tool2() {
 }
 
 export default Tool2;
+
 
