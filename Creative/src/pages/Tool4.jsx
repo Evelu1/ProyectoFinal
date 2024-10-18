@@ -66,7 +66,7 @@ function Tool4() {
         {/* Tarjeta F3 */}
         <div className="h-[350px] w-full md:w-1/3 rounded-lg shadow-none bg-transparent dark:bg-transparent flex flex-col items-center justify-center p-4 mb-4">
           <img 
-            src="/img/ChatGPT_F3.jpg" // Ruta de la imagen F3 relacionada con ChatGPT
+            src="/img/CGPT3.png" // Ruta de la imagen F3 relacionada con ChatGPT
             alt="Imagen ChatGPT F3"
             className="w-full h-auto mb-2 rounded-lg"
           />
