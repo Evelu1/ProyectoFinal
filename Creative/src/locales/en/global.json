@@ -1,0 +1,142 @@
+{
+  "navbar":{
+    "home": "Home",
+    "signInA": "Sign In",
+    "about":"About"
+  },
+  "mainhome": {
+        "work": "Welcome to Creative!",
+        "workdesc": "Go to \"Statistics\" if you wish to view the current information or log in to access all the system's features.",
+        "button1": "Go to statistics",
+        "button2": "Learn more about malnutrition",
+        "title": "What is malnutrition?",
+        "title2": "Definition",
+        "description": "It is a pathological state that arises from inadequate nutrient intake or excessive catabolism, and is manifested by clinical, biochemical alterations and problems in body measurements.",
+        "title3": "Types",
+        "description2-1": "Acute malnutrition",
+        "description2-2": "Chronic malnutrition",
+        "description2-3": "Mixed malnutrition",
+        "title4": "Causes",
+        "description3-1": "Poverty: Lack of access to sufficient and nutritious food.",
+        "description3-2": "Conflicts and emergencies: Situations that disrupt food production and distribution.",
+        "description3-3": "Diseases: Conditions affecting the body's ability to absorb nutrients.",
+        "description3-4": "Education and knowledge: Lack of information about proper nutrition.",
+        "title5": "Consequences",
+        "description4": "Malnutrition deteriorates health and quality of life, perpetuating poverty and reducing productivity.",
+        "title6": "Prevention",
+        "description5": "School feeding programs improve health and academic performance, and nutrition education optimizes diet and local production.",
+        "title7": "Impact",
+        "description6": "Child malnutrition hampers cognitive development, widens social inequality, and weakens community cohesion, perpetuating poverty and increasing crime."
+    },
+  "footer": {
+    "logo": {
+      "alt": "Creative",
+      "name": "Creative"
+    },
+    "resources": {
+      "title": "Resources",
+      "links": [
+        {
+          "name": "Flowbite",
+          "url": "https://flowbite.com/"
+        },
+        {
+          "name": "Tailwind CSS",
+          "url": "https://tailwindcss.com/"
+        }
+      ]
+    },
+    "followUs": {
+      "title": "Follow Us",
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/Owl-in-night?tab=repositories"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/RY7N6wgH"
+        }
+      ]
+    },
+    "legal": {
+      "title": "Legal",
+      "links": [
+        {
+          "name": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Terms and Conditions",
+          "url": "/terms&conditions"
+        }
+      ]
+    },
+    "footerText": "© 2024 Creative™. All rights reserved.",
+    "socialMedia": {
+      "facebook": {
+        "url": "https://www.facebook.com/Owl.in.nigth/?locale=es_LA",
+        "alt": "Facebook Page"
+      },
+      "discord": {
+        "url": "https://discord.com/channels/@me",
+        "alt": "Discord Community"
+      },
+      "x": {
+        "url": "https://x.com/owl_in_night",
+        "alt": "X Page"
+      },
+      "github": {
+        "url": "https://github.com/Owl-in-night",
+        "alt": "GitHub Account"
+      },
+      "dribbble": {
+        "url": "https://dribbble.com/OwlInNight",
+        "alt": "Dribbble Account"
+      }
+    },
+    "footerMobile": {
+      "text": "© 2024 Creative™. All rights reserved.",
+      "links": [
+        {
+          "name": "About Us",
+          "url": "#"
+        },
+        {
+          "name": "Privacy Policy",
+          "url": "#"
+        },
+        {
+          "name": "Licenses",
+          "url": "#"
+        },
+        {
+          "name": "Contact",
+          "url": "#"
+        }
+      ],
+      "socialMedia": {
+        "facebook": {
+          "url": "https://www.facebook.com/Owl.in.nigth/?locale=es_LA",
+          "alt": "Facebook Page"
+        },
+        "discord": {
+          "url": "https://discord.com/channels/@me",
+          "alt": "Discord Community"
+        },
+        "x": {
+          "url": "https://x.com/owl_in_night",
+          "alt": "X Page"
+        },
+        "github": {
+          "url": "https://github.com/Owl-in-night",
+          "alt": "GitHub Account"
+        },
+        "dribbble": {
+          "url": "https://dribbble.com/OwlInNight",
+          "alt": "Dribbble Account"
+        }
+      }
+    }
+  }
+}

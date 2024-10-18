@@ -1,0 +1,142 @@
+{
+  "navbar":{
+    "home": "Inicio",
+    "signInA": "Iniciar sesión",
+    "about":"Sobre nosotros"
+  },
+  "mainhome":{
+    "work":"¡Bienvenido a Creative!",
+    "workdesc": "Ve a \"Estadísticas\" si deseas visualizar la información actual o inicia sesión para acceder a todas las funcionalidades del sistema.",
+    "button1":"Ir a estadísticas",
+    "button2":"Saber más sobre la desnutrición",
+    "title":"¿Qué es la desnutrición?",
+    "title2":"Definición",
+    "description":"Es un estado patológico que surge de una ingesta inadecuada de nutrientes o un exceso catabólico, y se manifiesta con alteraciones clínicas, bioquímicas y problemas en las medidas corporales.",
+    "title3":"Tipos",
+    "description2-1":"Desnutrición aguda",
+    "description2-2":"Desnutrición crónica",
+    "description2-3":"Desnutrición mixta",
+    "title4":"Causas",
+    "description3-1":"Pobreza: Falta de acceso a alimentos suficientes y nutritivos.",
+    "description3-2":"Conflictos y emergencias: Situaciones que interrumpen la producción y distribución de alimentos.",
+    "description3-3":"Enfermedades: Condiciones que afectan la capacidad del cuerpo para absorber nutrientes.",
+    "description3-4":"Educación y conocimiento: Falta de información sobre nutrición adecuada.",
+    "title5":"Consecuencias",
+    "description4":"La desnutrición deteriora la salud y la calidad de vida, perpetuando la pobreza y reduciendo la productividad.",
+    "title6":"Prevención",
+    "description5":"Los programas de alimentación escolar mejoran la salud y el rendimiento académico, y la educación en nutrición optimiza la alimentación y la producción local.",
+    "title7":"Impacto",
+    "description6":"La desnutrición infantil frena el desarrollo cognitivo, amplía la desigualdad social y debilita la cohesión comunitaria, perpetuando la pobreza y elevando la delincuencia."
+  },  
+  "footer": {
+    "logo": {
+      "alt": "Creative",
+      "name": "Creative"
+    },
+    "resources": {
+      "title": "Recursos",
+      "links": [
+        {
+          "name": "Flowbite",
+          "url": "https://flowbite.com/"
+        },
+        {
+          "name": "Tailwind CSS",
+          "url": "https://tailwindcss.com/"
+        }
+      ]
+    },
+    "followUs": {
+      "title": "Síguenos",
+      "links": [
+        {
+          "name": "Github",
+          "url": "https://github.com/Owl-in-night?tab=repositories"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/RY7N6wgH"
+        }
+      ]
+    },
+    "legal": {
+      "title": "Legal",
+      "links": [
+        {
+          "name": "Política de Privacidad",
+          "url": "/privacy-policy"
+        },
+        {
+          "name": "Términos y Condiciones",
+          "url": "/terms&conditions"
+        }
+      ]
+    },
+    "footerText": "© 2024 Creative™. Todos los derechos reservados.",
+    "socialMedia": {
+      "facebook": {
+        "url": "https://www.facebook.com/Owl.in.nigth/?locale=es_LA",
+        "alt": "Página de Facebook"
+      },
+      "discord": {
+        "url": "https://discord.com/channels/@me",
+        "alt": "/Soporte/Comunidad de Discord"
+      },
+      "x": {
+        "url": "https://x.com/owl_in_night",
+        "alt": "Página de X"
+      },
+      "github": {
+        "url": "https://github.com/Owl-in-night",
+        "alt": "Cuenta de GitHub"
+      },
+      "dribbble": {
+        "url": "https://dribbble.com/OwlInNight",
+        "alt": "Cuenta de Dribbble"
+      }
+    },
+    "footerMobile": {
+      "text": "© 2023 Creative™. Todos los derechos reservados.",
+      "links": [
+        {
+          "name": "Sobre Nosotros",
+          "url": "#"
+        },
+        {
+          "name": "Política de Privacidad",
+          "url": "#"
+        },
+        {
+          "name": "Licencias",
+          "url": "#"
+        },
+        {
+          "name": "Contacto",
+          "url": "#"
+        }
+      ],
+      "socialMedia": {
+        "facebook": {
+          "url": "https://www.facebook.com/Owl.in.nigth/?locale=es_LA",
+          "alt": "Página de Facebook"
+        },
+        "discord": {
+          "url": "https://discord.com/channels/@me",
+          "alt": "/Soporte/Comunidad de Discord"
+        },
+        "x": {
+          "url": "https://x.com/owl_in_night",
+          "alt": "Página de X"
+        },
+        "github": {
+          "url": "https://github.com/Owl-in-night",
+          "alt": "Cuenta de GitHub"
+        },
+        "dribbble": {
+          "url": "https://dribbble.com/OwlInNight",
+          "alt": "Cuenta de Dribbble"
+        }
+      }
+    }
+  }
+}
